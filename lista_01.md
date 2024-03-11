@@ -23,7 +23,7 @@ print(a)
 
 Escolha a opção que responde corretamente:
 
-a) Imprime os números pares de 1 a 10.
+<s>a) Imprime os números pares de 1 a 10.</s>
 
 b) Imprime os números ímpares de 1 a 10.
 
@@ -67,7 +67,7 @@ ______
 
 **4)** Como você criaria um método `acelerar()` em uma classe `Carro`, que recebe um parâmetro `velocidade` e o adiciona a um atributo `velocidadeAtual`?
 
-A) ![Uma imagem](assets/ex04_1.PNG)
+A) ALternativa![Uma imagem](assets/ex04_1.PNG)
 
 B) ![Uma imagem](assets/ex04_2.PNG)
 
